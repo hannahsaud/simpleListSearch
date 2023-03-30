@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  UISearchBar
 //
-//  Created by Hannah Abdalla on 9/18/19.
+//  Created by Hannah AlAhmed on 9/18/19.
 //  Copyright © 2019 Hannah. All rights reserved.
 //
 

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:UISearchBar.xcodeproj">
+      location = "self:/Users/hannah/Documents/IOS/SimpleListSearch/SimpleListSearch.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,15 +1,15 @@
 //
-//  UISearchBarTests.swift
-//  UISearchBarTests
+//  SimpleListSearchTests.swift
+//  SimpleListSearchTests
 //
 //  Created by Hannah AlAhmed on 9/18/19.
 //  Copyright © 2019 Hannah. All rights reserved.
 //
 
 import XCTest
-@testable import UISearchBar
+@testable import SimpleListSearch
 
-class UISearchBarTests: XCTestCase {
+class SimpleListSearchTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

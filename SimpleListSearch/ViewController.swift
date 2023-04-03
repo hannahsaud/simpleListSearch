@@ -36,7 +36,9 @@ class ViewController: UIViewController, UISearchBarDelegate, UITableViewDataSour
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "List_Cell", for: indexPath)
+        
         cell.textLabel?.text = filteredContents[indexPath.row]
+        cell.selectionStyle = .none
         
         return cell
     }
